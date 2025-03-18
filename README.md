@@ -132,7 +132,6 @@ predict_price()
 
 Output 1:
 
-	•	63/63 ━━━━━━━━━━━━━━━━━━━━ 1s 8ms/step - loss: 72846.5234 - mae: 72847.0234 - val_loss: 13355.3564 - val_mae: 13355.8564
 	•	Calculate Price in USD or UPX ? (usd/upx): usd
 	•	💵 Property value in USD: 55
 	•	🏠 Property size in UP²: 300
@@ -141,14 +140,12 @@ Output 1:
 	•	🏙️ Rating (1-10): 6
 	•	🌍 Average Price in region (UPX): 500000
 	•	📈 Price growth in the last 30 Days (%): 4
-	•	1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 139ms/step
 	•	📌 Predicted Price: 1000605.125 UPX
 
 ![image](https://github.com/user-attachments/assets/86ed0b31-6f71-4717-871d-c39d468fa2a0)
 
 Output 2:
-
-	•	63/63 ━━━━━━━━━━━━━━━━━━━━ 1s 7ms/step - loss: 73789.9375 - mae: 73790.4375 - val_loss: 17415.4844 - val_mae: 17415.9844
+	
 	•	Calculate Price in USD or UPX ? (usd/upx): upx
 	•	💰 Property value in UPX: 60
 	•	🏠 Property size in UP²: 160
@@ -157,7 +154,6 @@ Output 2:
 	•	🏙️ Rating (1-10): 3
 	•	🌍 Average Price in region (UPX): 40
 	•	Price growth in the last 30 Days (%): 1
-	•	1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 103ms/step
 	•	 📌 Predicted Price: 4156429.0 UPX
 
 ![image](https://github.com/user-attachments/assets/85010c65-0b01-46fb-b716-09b304709460)
