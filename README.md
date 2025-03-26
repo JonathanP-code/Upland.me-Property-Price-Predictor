@@ -1,4 +1,11 @@
 # Upland.me-Property-Price-Predictor
+<a href="https://www.python.org/"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white"></a>
+<a href="https://pip.pypa.io/"><img alt="pip" src="https://img.shields.io/badge/pip-3775A9.svg?logo=pypi&logoColor=white"></a>
+<a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
+<a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
+<a href="https://matplotlib.org/"><img alt="matplotlib" src="https://img.shields.io/badge/matplotlib-11557C.svg?logo=python&logoColor=white"></a>
+<a href="https://scikit-learn.org/"><img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
+
 This project uses a neural network built with TensorFlow and Keras to predict future real estate prices based on property attributes like size, location, and market trends. Users can input details interactively, and the model provides a price prediction along with a 12-month forecast visualization.
 
 ![E6FF0EE4-FBAD-4D7F-8695-5280068841B0_1_105_c](https://github.com/user-attachments/assets/8ed31059-c387-4cf0-a6fe-e30634cf50fd)
